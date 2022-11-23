@@ -1,0 +1,3 @@
+2022-11-23 15:33:33,307 Ссылки      ERROR    Id: jtaranov        User: Женя Таранов Данные не верны. Проверьте формат переменных "ya_token" или "user_id"!
+2022-11-23 15:33:33,307 Подлинность INFO     Id: jtaranov        User: Женя Таранов Информация доступна
+2022-11-23 15:33:33,307 Подлинность DEBUG    Id: jtaranov        User: Женя Таранов {'response': [{'id': 45455436, 'first_name': 'Женя', 'last_name': 'Таранов', 'can_access_closed': True, 'is_closed': False}]}
